@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development as mern stack .
 - 🌱 I’m currently working with wipro and also freelancing on upwork , freelancer , fiverr as full stack developer.
 - 💞️ I’m looking to collaborate on full stack projects.
-- 📫 How to reach me .. .
+- 📫 How to reach me .. . @https://www.linkedin.com/in/yatendra19/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
